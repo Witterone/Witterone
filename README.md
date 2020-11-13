@@ -1,5 +1,11 @@
-### Hi there 👋
+## Welcome! This is my collection of coding work involving a heavy amount of python and Data Science. I want to make a difference using mass data as a tool.
+* I am a science discovery lover. ⚡
+* I enjoy finding hidden patterns in data that can shead light on problems in the world.
 
+###Skills
+# Python, SQL, FastAPI, TensorFlow, Pandas, Scikit Learn 💬
+
+# Contact me at my email bwitter770@gmail.com 📫 
 <!--
 **Witterone/Witterone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
