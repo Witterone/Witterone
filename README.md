@@ -2,8 +2,8 @@
 * I am a science discovery lover. ⚡
 * I enjoy finding hidden patterns in data that can shead light on problems in the world.
 
-### Skills
-# Python, SQL, FastAPI, TensorFlow, Pandas, Scikit Learn 💬
+# Skills
+### Python, SQL, FastAPI, TensorFlow, Pandas, Scikit Learn 💬
 
 # Contact me at my email bwitter770@gmail.com 📫 
 <!--
